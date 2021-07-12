@@ -1,4 +1,4 @@
-# Titanic- 
+# Titanic
 Here we are given a data set in which all details on passengers are given ,i.e, whether they survived or not based upon various factors. Our task is to predict whether a person will survive or not based upon some factor.
 
 First Exploratory Data Analysis is done which is followed by data cleaning. Now when the data is cleaned , it is trained using Logistic Regression as it gave the most accurate result. 
